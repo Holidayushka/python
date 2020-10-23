@@ -1,0 +1,6 @@
+Surname1: 15000
+Surname2: 10000
+Surname3: 30000
+Surname4: 40000
+Surname5: 60000
+Surname6: 25000
