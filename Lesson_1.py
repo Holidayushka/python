@@ -59,3 +59,7 @@ while current_day < last_day:
     current_day = current_day * 1.1
     count = count + 1
 print(count)
+
+#Task 6
+
+print ("Print something")
